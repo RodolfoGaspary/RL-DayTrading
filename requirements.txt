@@ -1,0 +1,12 @@
+alpaca-trade-api
+yfinance
+pandas
+ta
+scikit-learn
+joblib
+schedule
+matplotlib
+numpy
+torch
+torchvision
+torchaudio
